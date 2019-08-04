@@ -1,2 +1,0 @@
-# GuessNumber
-Created with CodeSandbox
